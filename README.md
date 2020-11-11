@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Davide Poggiali, Italian PostDoc, Mathematician, PhD in Neuroscience. 
+[MRI,CT,PET,SPECT]-neuroimager 🧠
+pythonist 🐍, 
+bike-faithful 🚲B, 
+guitarist 🎸.
+See my [website](dpoggiali.altervista.org) for other info.
+
+
 [![ github stats](https://github-readme-stats.vercel.app/api?username=pog87&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
