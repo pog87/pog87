@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![my face](http://dpoggiali.altervista.org/img/davide.jpg)
+
 I am Davide Poggiali, Italian PostDoc, Mathematician, PhD in Neuroscience. 
 
 [MRI,CT,PET,SPECT]-neuroimager 🧠
