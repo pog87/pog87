@@ -1,10 +1,16 @@
 ### Hi there 👋
 
 I am Davide Poggiali, Italian PostDoc, Mathematician, PhD in Neuroscience. 
+
 [MRI,CT,PET,SPECT]-neuroimager 🧠
+
 pythonist 🐍, 
+
 bike-faithful 🚲B, 
+
 guitarist 🎸.
+
+
 See my [website](dpoggiali.altervista.org) for other info.
 
 
