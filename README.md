@@ -8,7 +8,7 @@ I am Davide Poggiali, Italian PostDoc, Mathematician, PhD in Neuroscience.
 
 pythonist 🐍, 
 
-bike-faithful 🚲B, 
+bike-faithful 🚲, 
 
 guitarist 🎸.
 
