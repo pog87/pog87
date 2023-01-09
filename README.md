@@ -2,7 +2,8 @@
 
 ![my face](http://dpoggiali.altervista.org/img/davide.jpg)
 
-I am Davide Poggiali, Italian PostDoc, Mathematician, PhD in Neuroscience. 
+I am Davide Poggiali.
+Italian guy, DataScientist, formerly a PostDoc. Mathematician, PhD in Neuroscience. 
 
 [MRI,CT,PET,SPECT]-neuroimager 🧠
 
